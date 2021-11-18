@@ -1,10 +1,9 @@
 # PythonFinalProject
-
-
 Installation
-       pip install pyjwt
-       pip install Flask
-       pip install -U Flask-SQLAlchemy
+       
+        pip install pyjwt
+        pip install Flask
+        pip install -U Flask-SQLAlchemy
 
 
 Usage       
